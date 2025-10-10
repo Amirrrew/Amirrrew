@@ -1,5 +1,5 @@
 # 💫 About Me:
-🕸️Front-End Developing using React JS and ...<br>🧑‍💻Back-End Developing using C# WinForm and Python ...<br>✨UI / UX Designer<br>👀Professional at ICDL
+🕸️Front-End Developing using React JS and ...<br>🧑‍💻Back-End Developing using C# WinForm and Python ...<br>
 
 
 ## 🌐 Socials:
